@@ -34,13 +34,13 @@ theme = "creative-portfolio"
   url = "portfolio/"
   home = true
 
-  [[params.navlinks]]
-  name = "About"
-  url = "about/"
+  # [[params.navlinks]]
+  # name = "About"
+  # url = "about/"
 
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  # [[params.navlinks]]
+  # name = "Get in touch"
+  # url = "contact/"
 
   [params.social]
   facebook      = "https://www.facebook.com/events/4734193169955019"
