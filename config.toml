@@ -8,11 +8,11 @@ theme = "creative-portfolio"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "blue"
-  description = "Archive"
+  description = "Archive of the Christmas 2020 Facebook Event"
   copyright = "&copy;2020 Ashton Wiersdorf"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "This is an archive of the Provo Utah Married Student 1st Stake's 2020 Christmas Facebook page.",
+    "Copyrights belong to original content creators respectively."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -26,7 +26,7 @@ theme = "creative-portfolio"
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "ashton.wiersdorf@pobox.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -43,6 +43,6 @@ theme = "creative-portfolio"
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  email         = "email@example.com"
-  github        = "full profile url in github"
+  facebook      = "https://www.facebook.com/events/4734193169955019"
+  email         = "ashton.wiersdorf@pobox.com"
+  github        = "https://github.com/Provo-Utah-Married-Student-First-Stake/2020-christmas-source"
