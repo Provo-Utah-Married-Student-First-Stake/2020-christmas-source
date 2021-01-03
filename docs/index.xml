@@ -6,14 +6,54 @@
     <description>Recent content on Christmas 2020 | PUMS 1st Stake</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Dec 2020 17:26:01 -0700</lastBuildDate><atom:link href="https://provo-utah-married-student-first-stake.github.io/2020-christmas-source/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://provo-utah-married-student-first-stake.github.io/2020-christmas-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>Demo_post</title>
+      <title>Demo 2</title>
+      <link>https://provo-utah-married-student-first-stake.github.io/2020-christmas-source/portfolio/demo2/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://provo-utah-married-student-first-stake.github.io/2020-christmas-source/portfolio/demo2/</guid>
+      <description>Pellentesque dapibus suscipit ligula. Donec posuere augue in quam. Etiam vel tortor sodales tellus ultricies commodo. Suspendisse potenti. Aenean in sem ac leo mollis blandit. Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi. Phasellus lacus.</description>
+    </item>
+    
+    <item>
+      <title>Demo 3</title>
+      <link>https://provo-utah-married-student-first-stake.github.io/2020-christmas-source/portfolio/demo3/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://provo-utah-married-student-first-stake.github.io/2020-christmas-source/portfolio/demo3/</guid>
+      <description>Lorem ipsum dolor sit amet</description>
+    </item>
+    
+    <item>
+      <title>Demo Post</title>
       <link>https://provo-utah-married-student-first-stake.github.io/2020-christmas-source/portfolio/demo_post/</link>
       <pubDate>Sun, 27 Dec 2020 17:26:01 -0700</pubDate>
       
       <guid>https://provo-utah-married-student-first-stake.github.io/2020-christmas-source/portfolio/demo_post/</guid>
       <description>Hello, world. This is a demo post.</description>
+    </item>
+    
+    <item>
+      <title>Sandy Biesinger</title>
+      <link>https://provo-utah-married-student-first-stake.github.io/2020-christmas-source/portfolio/sandybiesinger_2020-12-25/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://provo-utah-married-student-first-stake.github.io/2020-christmas-source/portfolio/sandybiesinger_2020-12-25/</guid>
+      <description>Merry Christmas! This video was made by my daughter she shares two of my greatest joys!! My favorite part is to watch how my grandkids hold baby Jesus.</description>
+    </item>
+    
+    <item>
+      <title>Poster&#39;s Name</title>
+      <link>https://provo-utah-married-student-first-stake.github.io/2020-christmas-source/portfolio/another_demo/</link>
+      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://provo-utah-married-student-first-stake.github.io/2020-christmas-source/portfolio/another_demo/</guid>
+      <description>by Poster Posterson</description>
     </item>
     
   </channel>
